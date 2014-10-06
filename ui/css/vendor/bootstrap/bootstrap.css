@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Josefin+Sans:300,400,700");
+
 
 /*!
  * Bootstrap v3.0.0
@@ -6807,7 +6807,7 @@ td.visible-print {
 }
 
 .navbar {
-  font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   border-bottom: 1px solid #dfdfdf;
 }
 
@@ -6821,7 +6821,7 @@ td.visible-print {
 }
 
 .btn {
-  font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .btn-default,
@@ -6896,7 +6896,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .has-warning .help-block,
